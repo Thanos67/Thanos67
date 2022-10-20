@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thanos Petroulas 
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Angular, Node Js and Cypress.
-- 💞️ I’m looking to collaborate on Web projects 
+- 👀 I’m interested in Java and Web development 
+- 🌱 I’m currently learning Java, Angular, Node Js and Cypress.
 - 📫 How to reach me  : athanasiospetroulas@gmail.com 
 
 <!---
